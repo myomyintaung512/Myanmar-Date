@@ -353,7 +353,6 @@ Date.prototype.getMoonStatus=function () {
 //1182
 if(Date.prototype.getSasanaYear == null )
 Date.prototype.getSasanaYear=function () {
-	var _ms={0: 'waxing', 1: 'full moon', 2: 'waning', 3: 'new moon'};
 	return (this.tomm().my+1182);
 }
 
