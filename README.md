@@ -2,8 +2,8 @@
 Javascript Myanmar Date Plugin, Extended Javascript Native Date Object.
 
 ### Installation
-Copy src folder to your project.
-Include src/juno.date.js in your html document.
+1.Copy src folder to your project.
+2.Include src/juno.date.js in your html document.
 ```
 <script src="src/juno.date.js"></script>
 ```
